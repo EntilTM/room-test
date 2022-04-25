@@ -1,0 +1,130 @@
+{
+  "data":
+  [
+    {
+      "_createTime": "2021-09-28T11:10:00.000Z",
+      "_createUser": 1,
+      "_updateTime": "2021-10-11T09:09:23.000Z",
+      "_updateUser": 1,
+      "erp":
+      {
+        "deviceId": 11,
+        "operation": "Operation 11",
+        "position": "Position 11",
+        "workOrder": "Work Order 11"
+      },
+      "externalId": 11,
+      "id": 1,
+      "name": "Hartford VMC 1300",
+      "positionX": 10,
+      "positionY": 20,
+      "status": 1,
+      "temperatures":
+      {
+        "innerTemp": 37,
+        "outerTemp": 37.58
+      },
+      "workPeriod": "Izmena 2 (14-22h)"
+    },
+    {
+      "_createTime": "2021-09-30T11:11:37.000Z",
+      "_createUser": 1,
+      "_updateTime": "2021-09-30T11:42:47.000Z",
+      "_updateUser": 1,
+      "erp":
+      {
+        "deviceId": 20,
+        "operation": "Operation 20",
+        "position": "Position 20",
+        "workOrder": "Work Order 20"
+      },
+      "externalId": 20,
+      "id": 33,
+      "name": "Device Test Name Edit",
+        "positionX": 25,
+        "positionY": 465,
+        "status": 2,
+        "temperatures":
+        {
+            "innerTemp": 25.7,
+            "outerTemp": 30.6
+        },
+        "workPeriod": "Izmena 2 (14-22h)"
+      },
+      {
+        "_createTime": "2021-10-07T17:23:22.000Z",
+        "_createUser": 1,
+        "_updateTime": "2021-10-07T17:23:22.000Z",
+        "_updateUser": 1,
+        "erp":
+        {
+            "deviceId": 4,
+            "operation": "Operation 4",
+            "position": "Position 4",
+            "workOrder": "Work Order 4"
+        },
+        "externalId": 4,
+        "id": 64,
+        "name": "Device 4",
+        "positionX": 12,
+        "positionY": 32,
+        "status":3,
+        "temperatures":
+        {
+            "innerTemp": 21,
+            "outerTemp": 25
+        },
+        "workPeriod": "Izmena 2 (14-22h)"
+      },
+      {
+        "_createTime": "2021-10-08T09:03:35.000Z",
+        "_createUser": 1,
+        "_updateTime": "2021-10-08T09:03:35.000Z",
+        "_updateUser": 1,
+        "erp":
+        {
+            "deviceId": 5,
+            "operation": "Operation 5",
+            "position": "Position 5",
+            "workOrder": "Work Order 5"
+        },
+        "externalId": 5,
+        "id": 65,
+        "name": "Test device - a",
+        "positionX": 50,
+        "positionY": 70,
+        "status": 1,
+        "temperatures":
+        {
+            "innerTemp": 44.3,
+            "outerTemp": 23.5
+        },
+        "workPeriod": "Izmena 2 (14-22h)"
+      },
+      {
+        "_createTime": "2021-10-15T10:48:00.000Z",
+        "_createUser": 1,
+        "_updateTime": "2021-10-15T10:48:00.000Z",
+        "_updateUser": 1,
+        "erp":
+        {
+            "deviceId": 1,
+            "operation": "Operation 1",
+            "position": "Position 1",
+            "workOrder": "Work Order 1"
+        },
+        "externalId": 1,
+        "id": 66,
+        "name": "Device 1",
+        "positionX": 20,
+        "positionY": 30,
+        "status": 2,
+        "temperatures":
+        {
+            "innerTemp": 21.2,
+            "outerTemp": 25.7
+        },
+        "workPeriod": "Izmena 2 (14-22h)"
+      }
+  ]
+}

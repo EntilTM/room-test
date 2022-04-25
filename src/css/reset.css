@@ -1,0 +1,45 @@
+body {
+  margin: 0px;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #000000;
+  background-color: #f0f4f7;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+a {
+  user-select: none;
+  -webkit-user-drag: none;
+  text-decoration: none;
+}
+input {
+  border: none;
+  background: none;
+}
+input:focus {
+  outline: none;
+  outline-offset: 0;
+}
+img {
+  user-select: none;
+  -webkit-user-drag: none;
+}
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  padding: initial;
+  font: initial;
+  color: initial;
+  background: none;
+}
+textarea {
+  outline: none;
+  resize: none;
+  border: none;
+}
